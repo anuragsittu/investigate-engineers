@@ -118,7 +118,7 @@ window.addEventListener("load", revealOnScroll);
 
 // EMAILJS CONTACT FORM
 
-emailjs.init("YoOCQiNi9LZSdj-QE");
+emailjs.init("UhG3-auUgYM7yyZvi");
 
 const contactForm = document.getElementById("contact-form");
 
@@ -127,8 +127,8 @@ contactForm.addEventListener("submit", function(e){
     e.preventDefault();
 
     emailjs.sendForm(
-        "service_43rbc8l",
-        "template_nszcncp",
+        "service_yyolpgt",
+        "template_xdmnyou",
         this
     )
     .then(() => {
