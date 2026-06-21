@@ -114,7 +114,7 @@ body{
 }
 
 /* =========================
-   HERO
+   HERO bg image-> https://tradesmanelectric.com/wp-content/uploads/2025/08/2edc95d4-7c7a-4e0f-ae2f-9f75c4b8f807.png
 ========================= */
 
 .hero{
@@ -128,7 +128,7 @@ body{
     linear-gradient(
     rgba(10,37,64,.75),
     rgba(10,37,64,.75)),
-    url("https://tradesmanelectric.com/wp-content/uploads/2025/08/2edc95d4-7c7a-4e0f-ae2f-9f75c4b8f807.png")
+    url("images/background.png")
     center/cover;
     color:white;
 }
